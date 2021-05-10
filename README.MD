@@ -28,14 +28,15 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 
 ## e. Project running in the browser displaying a deleted record added to the home page:
 ### i. Record to be deleted (see last record):
-![img_1.png](screenshots/img_1.png)
+![](screenshots/delneww.png)
 ### ii. Last record deleted:
-![img_1.png](screenshots/img_1.png)
+![](screenshots/f.png)
 ## f. The project showing postman listing all records.
-![img_1.png](screenshots/img_1.png)
+![](screenshots/PostmanG.png)
 
 ## g. The project showing postman showing one record with a get request.
-![img_1.png](screenshots/img_1.png)## i. The project showing postman creating a record by showing the post request and the results in the record listing. 
+![img_1.png](screenshots/img_1.png)
+## i. The project showing postman creating a record by showing the post request and the results in the record listing. 
 ![img_8.png](screenshots/img_8.png)
 
 ![img_9.png](screenshots/img_9.png)
@@ -44,6 +45,7 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 ![img_10.png](screenshots/img_10.png)
 
 ![img_11.png](screenshots/img_11.png)
+
 ## I. The project showing postman delete a record by showing the delete request and the results in the record listing.
 ![img_12.png](screenshots/img_12.png)
 
