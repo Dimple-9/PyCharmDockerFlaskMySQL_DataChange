@@ -26,21 +26,18 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 ## d. Project running in the browser displaying an updated record added to the home page:
 ### i. Form for updating (editing) a record with all data fields filled:
 ![img_3.png](img_3.png)
-### ii. Updated (Edited) record (see first record):
-![](screenshots/e2.PNG)
 
-## f. Project running in the browser displaying a deleted record added to the home page:
+## e. Project running in the browser displaying a deleted record added to the home page:
 ### i. Record to be deleted (see last record):
-![](screenshots/d3.PNG)
+![img_4.png](img_4.png)
 ### ii. Last record deleted:
-![](screenshots/f.PNG)
+![img_5.png](img_5.png)
 
-## g. The project showing postman listing all records.
-![](screenshots/g.PNG)
+## f. The project showing postman listing all records.
+![img_6.png](img_6.png)
 
-## h. The project showing postman showing one record with a get request.
-![](screenshots/h.PNG)
-
+## g. The project showing postman showing one record with a get request.
+![img_7.png](img_7.png)
 ## i. The project showing postman creating a record by showing the post request and the results in the record listing. 
 ![](screenshots/i.PNG)
 
