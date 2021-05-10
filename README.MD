@@ -9,7 +9,6 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 
 # Project Screenshots:
 
-
 ## b. Project running in the browser displaying the homepage with the data:
 ![](screenshots/b.PNG)
 
