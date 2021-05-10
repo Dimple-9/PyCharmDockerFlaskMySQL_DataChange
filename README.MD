@@ -5,29 +5,27 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 ![img.png](img.png)
 
 # SQL Data Screenshot
-![img_2.png](img_2.png)
+![img_2.png](screenshots/img_2.png)
 
 # Project Screenshots:
 
-## b. Project running in the browser displaying the homepage with the data:
-![](screenshots/b.PNG)
+## a. Project running in the browser displaying the homepage with the data:
+![img_3.png](screenshots/img_3.png)
 
-![](screenshots/b2.PNG)
 
-## c. Project running in the browser displaying the data record as a view of one record:
-![](screenshots/c.PNG)
+## b. Project running in the browser displaying the data record as a view of one record:
+![img_4.png](screenshots/img_4.png)
 
-## d. Project running in the browser displaying a new record added to your home page:
+## c. Project running in the browser displaying a new record added to your home page:
 ### i. Blank form for a new entry:
-![](screenshots/d.PNG)
+![img_5.png](screenshots/img_5.png)
 ### ii. Form for new entry with all data fields filled:
-![](screenshots/d2.PNG)
+![img_6.png](screenshots/img_6.png)
 ### iii. New entry added (see last record):
-![](screenshots/d3.PNG)
-
-## e. Project running in the browser displaying an updated record added to the home page:
+![img_7.png](screenshots/img_7.png)
+## d. Project running in the browser displaying an updated record added to the home page:
 ### i. Form for updating (editing) a record with all data fields filled:
-![](screenshots/e.PNG)
+![img_3.png](img_3.png)
 ### ii. Updated (Edited) record (see first record):
 ![](screenshots/e2.PNG)
 
