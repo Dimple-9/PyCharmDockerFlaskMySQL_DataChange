@@ -5,7 +5,7 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 ![img.png](img.png)
 
 # SQL Data Screenshot
-![pycharm data query](![img_1.png](img_1.png))
+![img_2.png](img_2.png)
 
 # Project Screenshots:
 
