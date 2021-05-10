@@ -3,7 +3,6 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 
 # Postman Screenshot
 ![img.png](img.png)
-
 # SQL Data Screenshot
 ![img_2.png](screenshots/img_2.png)
 
