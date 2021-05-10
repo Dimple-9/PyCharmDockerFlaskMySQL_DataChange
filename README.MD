@@ -2,7 +2,7 @@
 This project is a homework assignment to learn how to get PyCharm setup with Docker, Flask, MySQL and Postman using your own Dataset.
 
 # Postman Screenshot
-![postman request output](Screenshots/PostmanM)
+![postman request output](Screenshots/![img.png](img.png))
 
 # SQL Data Screenshot
 ![pycharm data query](Screenshots/1sql.png)
