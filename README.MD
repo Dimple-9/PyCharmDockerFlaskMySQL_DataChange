@@ -39,16 +39,15 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 ## g. The project showing postman showing one record with a get request.
 ![img_7.png](img_7.png)
 ## i. The project showing postman creating a record by showing the post request and the results in the record listing. 
-![](screenshots/i.PNG)
+![img_8.png](screenshots/img_8.png)
 
-![](screenshots/i2.PNG)
+![img_9.png](screenshots/img_9.png)
 
-## j. The project showing postman edit a record by showing the put request and the results in the record listing. 
-![](screenshots/j.PNG)
+## h. The project showing postman edit a record by showing the put request and the results in the record listing. 
+![img_10.png](screenshots/img_10.png)
 
-![](screenshots/j2.PNG)
+![img_11.png](screenshots/img_11.png)
+## I. The project showing postman delete a record by showing the delete request and the results in the record listing.
+![img_12.png](screenshots/img_12.png)
 
-## k. The project showing postman delete a record by showing the delete request and the results in the record listing.
-![](screenshots/k.PNG)
-
-![](screenshots/k2.PNG)
+![img_13.png](screenshots/img_13.png)
