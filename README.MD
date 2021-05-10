@@ -41,7 +41,7 @@ This project is a homework assignment to learn how to get PyCharm setup with Doc
 ![](screenshots/PostmanH.png)
 
 ## i. The project showing postman creating a record by showing the post request and the results in the record listing. 
-![img_8.png](screenshots/img_8.png)
+![](screenshots/post.png)
 
 ![img_9.png](screenshots/img_9.png)
 
